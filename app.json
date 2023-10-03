@@ -1,4 +1,5 @@
 {
+   "stack": "heroku-20",
   "name": "Learning OpenTok PHP",
   "description": "An OpenTok sample app for handling OpenTok server-side functionality on a PHP server",
   "keywords": [
